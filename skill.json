@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-genpark-gig-worker",
+  "version": "1.0.0",
+  "description": "Gig economy task scheduler solving dynamic knapsack yields across multi-platform delivery and rideshare queues",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["gig-economy", "knapsack-yield", "shift-optimizer", "task-scheduler", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
